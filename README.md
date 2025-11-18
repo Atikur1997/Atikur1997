@@ -67,28 +67,7 @@ I love creating clean, modern and responsive web applications using the latest t
 
 ---
 
-# ⭐ Featured Projects
 
-### 🔹 1. Modern React Web App  
-**Stack:** React, Tailwind, Firebase  
-A fast, clean and responsive UI with authentication.  
-🔗 *Project Link:* *(Add your link here)*
-
----
-
-### 🔹 2. E-Commerce Frontend  
-**Stack:** React, Node, Context API  
-Product filtering, cart system & reusable UI components.  
-🔗 *Project Link:* *(Add your link here)*
-
----
-
-### 🔹 3. Food Delivery Application  
-**Stack:** React, Express, MongoDB  
-Full ordering flow with dashboard and smooth UX.  
-🔗 *Project Link:* *(Add your link here)*
-
----
 
 # 📊 GitHub Stats
 
