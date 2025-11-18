@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.ibb.co/wrwFJVcj/Blue-Simple-Front-End-Developer-Linked-In-Banner.png" width="100%" alt="Banner" />
+</p>
 
 
 <p align="center">
