@@ -16,7 +16,7 @@
 
 ## 🌟 About Me  
 
-Hi, I'm **Atikur Rahman**, a passionate **Frontend Developer** from India 🇮🇳.  
+Hi, I'm **Atikur Rahman**, a passionate **Frontend Developer** from Bangladesh 🇧🇩.  
 I love creating clean, modern, and responsive web applications using the latest tools and technologies.
 
 - 🚀 Specializing in **React, JavaScript & TailwindCSS**
@@ -26,62 +26,31 @@ I love creating clean, modern, and responsive web applications using the latest 
 
 ---
 
-## 🛠️ Skills Overview
-
----
+## 🛠️ Skills Overview  
 
 ## 🛠️ Skills Overview
 
-<p align="center">
-  <table align="center" width="90%">
-    <tr>
-      <th align="left">Category</th>
-      <th align="left">Skills</th>
-    </tr>
-    <tr>
-      <td>Languages</td>
-      <td><img src="https://skillicons.dev/icons?i=js,ts" height="50"/></td>
-    </tr>
-    <tr>
-      <td>Frontend</td>
-      <td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux,bootstrap" height="50"/></td>
-    </tr>
-    <tr>
-      <td>Backend</td>
-      <td><img src="https://skillicons.dev/icons?i=nodejs,express,prisma" height="50"/></td>
-    </tr>
-    <tr>
-      <td>Database</td>
-      <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" height="50"/></td>
-    </tr>
-    <tr>
-      <td>Tools & Platforms</td>
-      <td><img src="https://skillicons.dev/icons?i=git,github,firebase,jwt,postman,vscode" height="50"/></td>
-    </tr>
-    <tr>
-      <td>Design</td>
-      <td><img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" height="50"/></td>
-    </tr>
-    <tr>
-      <td>Currently Learning</td>
-      <td><img src="https://skillicons.dev/icons?i=nextjs,tailwind,reactquery,vercel" height="50"/></td>
-    </tr>
-  </table>
-</p>
-
----
+| Category | Skills & Proficiency |
+|---------|--------------------|
+| Languages | ![JS](https://skillicons.dev/icons?i=js)  <br> ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-brightgreen?style=for-the-badge&logo=javascript)  |
+| Frontend | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Redux](https://skillicons.dev/icons?i=redux) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) <br> ![React Badge](https://img.shields.io/badge/React-90%25-blue?style=for-the-badge&logo=react) ![Next.js Badge](https://img.shields.io/badge/Next.js-80%25-black?style=for-the-badge&logo=next.js) ![Tailwind Badge](https://img.shields.io/badge/TailwindCSS-85%25-blue?style=for-the-badge&logo=tailwindcss) |
+| Backend | ![Node](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express)  <br> ![Node.js Badge](https://img.shields.io/badge/Node.js-80%25-green?style=for-the-badge&logo=node.js) ![Express Badge](https://img.shields.io/badge/Express-70%25-lightgrey?style=for-the-badge)  |
+| Database | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Postgres](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) <br> ![MongoDB Badge](https://img.shields.io/badge/MongoDB-80%25-brightgreen?style=for-the-badge&logo=mongodb) ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-70%25-blue?style=for-the-badge&logo=postgresql) ![MySQL Badge](https://img.shields.io/badge/MySQL-70%25-blue?style=for-the-badge&logo=mysql) |
+| Tools & Platforms | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Firebase](https://skillicons.dev/icons?i=firebase) ![JWT](https://skillicons.dev/icons?i=jwt) ![Postman](https://skillicons.dev/icons?i=postman) ![VSCode](https://skillicons.dev/icons?i=vscode) <br> ![Git Badge](https://img.shields.io/badge/Git-85%25-orange?style=for-the-badge&logo=git) ![GitHub Badge](https://img.shields.io/badge/GitHub-90%25-black?style=for-the-badge&logo=github) ![Firebase Badge](https://img.shields.io/badge/Firebase-75%25-yellow?style=for-the-badge&logo=firebase) |
+| Design | ![Figma](https://skillicons.dev/icons?i=figma) ![Photoshop](https://skillicons.dev/icons?i=photoshop) ![Illustrator](https://skillicons.dev/icons?i=illustrator) <br> ![Figma Badge](https://img.shields.io/badge/Figma-80%25-red?style=for-the-badge&logo=figma) ![Photoshop Badge](https://img.shields.io/badge/Photoshop-70%25-blue?style=for-the-badge&logo=adobephotoshop) |
+| Currently Learning | ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![React Query](https://skillicons.dev/icons?i=reactquery) ![Vercel](https://skillicons.dev/icons?i=vercel) <br>   |
 
 
 ## 🤝 Connect With Me
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/a-k-m-atikur-rahman-164889135" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50"/>
   </a>
   <a href="https://facebook.com/atikur rahman nissan" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" width="50"/>
+    <img src="https://skillicons.dev/icons?i=facebook" width="50" height="50"/>
   </a>
   <a href="https://github.com/atikur1997" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="50"/>
+    <img src="https://skillicons.dev/icons?i=github" width="50" height="50"/>
   </a>
 </p>
 
